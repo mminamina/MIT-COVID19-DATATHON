@@ -2,7 +2,7 @@
 
 This repository contains our teamwork on MIT Covid-19 Datathon Presentation.
 
-Our project is also featured on **MIT COVID-19 DATATHON** webpage: https://covid19challenge.mit.edu/datathon/
+Our project is also featured on MIT COVID-19 DATATHON webpage: https://covid19challenge.mit.edu/datathon/ (Track-D Team-9)
 
 Our research focuses on **Epidemiology topic**. 
 
