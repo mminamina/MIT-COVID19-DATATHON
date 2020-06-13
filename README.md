@@ -20,7 +20,7 @@ To analyze of impacts of major risk factor (Comorbidities) vs top protective fac
 
 In this repository: 
 
-1.	For summary of our approach, please refer to **TrackD-Team9-Final.pptx**
+1.	For outline of our approach and analysis, please refer to **TrackD-Team9-Final.pptx**
 
 2.	For end-to-end process, please refer to **MITCovid19_stats+data_analysis.ipynb**
 
