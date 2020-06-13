@@ -2,41 +2,39 @@
 
 This repository contains our teamwork on MIT Covid-19 Datathon Presentation.
 
-Our project is also featured on MIT COVID-19 DATATHON webpage:
+Our project is also featured on **MIT COVID-19 DATATHON** webpage: https://covid19challenge.mit.edu/datathon/
 
-https://covid19challenge.mit.edu/datathon/
+Our research focuses on **Epidemiology topic**. 
 
-Our research focuses on Epidemiology topic. 
+#### What are the protective factors that increase the chance of recovery:
 
-What are the protective factors that increase the chance of recovery:
+#### a)	from asymptotic Covid-19,
 
-a)	from asymptotic Covid-19,
+#### b)	after hospital admission due to Covid-19,
 
-b)	after hospital admission due to Covid-19,
+#### c)	and survival after admission to ICU and/or mechanical ventilator?
 
-c)	and survival after admission to ICU and/or mechanical ventilator?
-
-Our Objective:
+#### Our Objective:
 
 To analyze of impacts of major risk factor (Comorbidities) vs top protective factors on recovery
 
 In this repository: 
 
-1.	For summary of our approach, please refer to TrackD-Team9-Final.pptx
+1.	For summary of our approach, please refer to **TrackD-Team9-Final.pptx**
 
-2.	For end-to-end process, please refer to MITCovid19_stats+data_analysis.ipynb
+2.	For end-to-end process, please refer to **MITCovid19_stats+data_analysis.ipynb**
 
-Our entire workflow includes
+#### Our entire workflow:
 
 a)	Data Gathering,
 
-b)	Data Cleaning and Processing
+b)	Data Cleaning and Processing,
 
-c)	Feature Mapping
+c)	Feature Mapping,
 
-d)	Convert Numerical Variables into Categorical
+d)	Convert Numerical Variables into Categorical,
 
-e)	Aggregation Method (extensively used for comparison of factors’ impacts on recovery)
+e)	Aggregation Method (extensively used for comparison of factors’ impacts on recovery),
 
 f)	Statistical Test (T-Test and P-Value, for confirmation of our impact analysis)
 
